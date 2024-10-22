@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm Jayasuriya Sathiaseelan, a passionate and curi
 
 ## 📫 How to reach me ...
 - **Email**: [jayasuriya12@gmail.com](mailto:jayasuriya12@gmail.com)
-- **LinkedIn**: [[linkedin.com/in/jayasuriya-s](https://www.linkedin.com/in/jayasuriya-s/)
+- **LinkedIn**: [linkedin.com/in/jayasuriya-s](https://www.linkedin.com/in/jayasuriya-s/)
 
 ## 😄 Pronouns: ...
 - **He/Him**
